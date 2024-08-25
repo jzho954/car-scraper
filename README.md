@@ -25,4 +25,7 @@ This project is a Python based web scraper designed to take information about ca
    cd car-scraper
 
 
-2. pip install selenium pandas
+2. Install Pandas
+``` 
+ pip install selenium 
+ pip install pandas
